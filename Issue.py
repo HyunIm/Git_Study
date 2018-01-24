@@ -1,1 +1,1 @@
-printf("Help");
+print("Help")
